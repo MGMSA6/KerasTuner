@@ -3,11 +3,11 @@ The Keras Tuner is a library that helps you pick the optimal set of hyperparamet
 
 
 # Dependencies:
-. pip install pandas. 
-. pip install tensorflow.    
-. pip install keras.             
-. pip install sklearn.      
-. pip install keras-tuner -q.       
+. pip install pandas.       
+. pip install tensorflow.          
+. pip install keras.                
+. pip install sklearn.         
+. pip install keras-tuner -q.            
 
 
 # Acknowledgements
